@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VAST xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="3.0" xsi:noNamespaceSchemaLocation="vast.xsd">
+    <Ad id="78355" sequence="1">
+        <InLine>
+            <AdSystem>ADX.SPACE</AdSystem>
+            <AdTitle>AD-78355</AdTitle>
+<!--            <Description>VAST PROVIDED BY https://adx.space</Description>-->
+<!--            <Error>https://00px.net/tracking/eyJjYSI6NDM1NCwiY3IiOjc4MzU1LCJwbCI6NjAyODd9/errors?error=[ERRORCODE]&amp;amp;s=yxHUIx7RlV7wa7NrCvmm8FCe</Error>-->
+            <Impression>https://00px.net/vast/pixel/eyJjYSI6NDM1NCwiY3IiOjc4MzU1LCJwbCI6NjAyODd9/e.gif?t=3453362458209721300&amp;f=vasts3&amp;s=yxHUIx7RlV7wa7NrCvmm8FCe</Impression>
+            <Creatives>
+                <Creative id="78355" sequence="1">
+<!--                    <Linear skipoffset="00:00:05">-->
+                        <Duration>00:00:30</Duration>
+                        <TrackingEvents>
+                            <Tracking event="creativeView">https://00px.net/tracking/eyJjYSI6NDM1NCwiY3IiOjc4MzU1LCJwbCI6NjAyODd9/creativeview?t=3453362458209721300&amp;s=yxHUIx7RlV7wa7NrCvmm8FCe</Tracking>
+                            <Tracking event="start">https://00px.net/tracking/eyJjYSI6NDM1NCwiY3IiOjc4MzU1LCJwbCI6NjAyODd9/starts?t=3453362458209721300&amp;s=yxHUIx7RlV7wa7NrCvmm8FCe</Tracking>
+                            <Tracking event="firstQuartile">https://00px.net/tracking/eyJjYSI6NDM1NCwiY3IiOjc4MzU1LCJwbCI6NjAyODd9/firstquartiles?t=3453362458209721300&amp;s=yxHUIx7RlV7wa7NrCvmm8FCe</Tracking>
+                            <Tracking event="midpoint">https://00px.net/tracking/eyJjYSI6NDM1NCwiY3IiOjc4MzU1LCJwbCI6NjAyODd9/midpoints?t=3453362458209721300&amp;s=yxHUIx7RlV7wa7NrCvmm8FCe</Tracking>
+                            <Tracking event="thirdQuartile">https://00px.net/tracking/eyJjYSI6NDM1NCwiY3IiOjc4MzU1LCJwbCI6NjAyODd9/thirdquartiles?t=3453362458209721300&amp;s=yxHUIx7RlV7wa7NrCvmm8FCe</Tracking>
+                            <Tracking event="complete">https://00px.net/tracking/eyJjYSI6NDM1NCwiY3IiOjc4MzU1LCJwbCI6NjAyODd9/completes?t=3453362458209721300&amp;s=yxHUIx7RlV7wa7NrCvmm8FCe</Tracking>
+                            <Tracking event="mute">https://00px.net/tracking/eyJjYSI6NDM1NCwiY3IiOjc4MzU1LCJwbCI6NjAyODd9/mutes?t=3453362458209721300&amp;s=yxHUIx7RlV7wa7NrCvmm8FCe</Tracking>
+                            <Tracking event="unmute">https://00px.net/tracking/eyJjYSI6NDM1NCwiY3IiOjc4MzU1LCJwbCI6NjAyODd9/unmutes?t=3453362458209721300&amp;s=yxHUIx7RlV7wa7NrCvmm8FCe</Tracking>
+                            <Tracking event="pause">https://00px.net/tracking/eyJjYSI6NDM1NCwiY3IiOjc4MzU1LCJwbCI6NjAyODd9/pauses?t=3453362458209721300&amp;s=yxHUIx7RlV7wa7NrCvmm8FCe</Tracking>
+                            <Tracking event="resume">https://00px.net/tracking/eyJjYSI6NDM1NCwiY3IiOjc4MzU1LCJwbCI6NjAyODd9/resumes?t=3453362458209721300&amp;s=yxHUIx7RlV7wa7NrCvmm8FCe</Tracking>
+                            <Tracking event="skip">https://00px.net/tracking/eyJjYSI6NDM1NCwiY3IiOjc4MzU1LCJwbCI6NjAyODd9/skips?t=3453362458209721300&amp;s=yxHUIx7RlV7wa7NrCvmm8FCe</Tracking>
+                            <Tracking event="rewind">https://00px.net/tracking/eyJjYSI6NDM1NCwiY3IiOjc4MzU1LCJwbCI6NjAyODd9/rewinds?t=3453362458209721300&amp;s=yxHUIx7RlV7wa7NrCvmm8FCe</Tracking>
+                            <Tracking event="fullscreen">https://00px.net/tracking/eyJjYSI6NDM1NCwiY3IiOjc4MzU1LCJwbCI6NjAyODd9/fullscreens?t=3453362458209721300&amp;s=yxHUIx7RlV7wa7NrCvmm8FCe</Tracking>
+                            <Tracking event="progress" offset="00:00:03">https://00px.net/tracking/eyJjYSI6NDM1NCwiY3IiOjc4MzU1LCJwbCI6NjAyODd9/progress?t=3453362458209721300&amp;s=yxHUIx7RlV7wa7NrCvmm8FCe</Tracking>
+                        </TrackingEvents>
+                        <VideoClicks>
+                            <ClickThrough id="ADXSPACE">https://00px.net/click/eyJjYSI6NDM1NCwiY3IiOjc4MzU1LCJwbCI6NjAyODd9?t=3453362458209721300&amp;seed=yxHUIx7RlV7wa7NrCvmm8FCe</ClickThrough>
+                        </VideoClicks>
+                        <MediaFiles>
+                            <MediaFile id="video78355mp4_720" delivery="progressive" width="720" height="480" bitrate="600" minBitrate="360" maxBitrate="1080" type="video/mp4">https://cdn.00px.net/rocket/78355/index_720.mp4</MediaFile>
+                            <MediaFile id="video78355webm_720" delivery="progressive" width="720" height="480" bitrate="600" minBitrate="360" maxBitrate="1080" type="video/webm">https://cdn.00px.net/rocket/78355/index_720.webm</MediaFile>
+                        </MediaFiles>
+                    </Linear>
+                </Creative>
+            </Creatives>
+        </InLine>
+    </Ad>
+</VAST>

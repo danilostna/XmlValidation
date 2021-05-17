@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VAST version="2.0">
+    <Ad id="77756">
+        <InLine>
+            <AdSystem>
+                <![CDATA[ ADX.SPACE ]]>
+            </AdSystem>
+            <AdTitle>
+                <![CDATA[ AD-77756 ]]>
+            </AdTitle>
+            <Description>
+                <![CDATA[ VPAID PROVIDED BY SPACE ADSERVER ]]>
+            </Description>
+            <Error>
+                <![CDATA[ https://00px.net/tracking/eyJjYSI6NDM3MywiY3IiOjc3NzU2LCJwbCI6NTk3OTJ9/errors?error=[ERRORCODE]&s=R64RHJn8LgHlhRQMIYS17luq ]]>
+            </Error>
+            <Impression>
+                <![CDATA[ https://00px.net/vast/pixel/eyJjYSI6NDM3MywiY3IiOjc3NzU2LCJwbCI6NTk3OTJ9/e.gif?t=1871564304371782100&f=vpaids&s=R64RHJn8LgHlhRQMIYS17luq ]]>
+            </Impression>
+            <Creatives>
+                <Creative id="77756" AdID="77756" sequence="1">
+                    <Linear>
+                        <Duration>30</Duration>
+                        <TrackingEvents>
+                            <Tracking event="creativeView">
+                                <![CDATA[ https://00px.net/tracking/eyJjYSI6NDM3MywiY3IiOjc3NzU2LCJwbCI6NTk3OTJ9/creativeview?t=1871564304371782100&s=R64RHJn8LgHlhRQMIYS17luq ]]>
+                            </Tracking>
+                            <Tracking event="start">
+                                <![CDATA[ https://00px.net/tracking/eyJjYSI6NDM3MywiY3IiOjc3NzU2LCJwbCI6NTk3OTJ9/starts?t=1871564304371782100&s=R64RHJn8LgHlhRQMIYS17luq ]]>
+                            </Tracking>
+                            <Tracking event="firstQuartile">
+                                <![CDATA[ https://00px.net/tracking/eyJjYSI6NDM3MywiY3IiOjc3NzU2LCJwbCI6NTk3OTJ9/firstquartiles?t=1871564304371782100&s=R64RHJn8LgHlhRQMIYS17luq ]]>
+                            </Tracking>
+                            <Tracking event="midpoint">
+                                <![CDATA[ https://00px.net/tracking/eyJjYSI6NDM3MywiY3IiOjc3NzU2LCJwbCI6NTk3OTJ9/midpoints?t=1871564304371782100&s=R64RHJn8LgHlhRQMIYS17luq ]]>
+                            </Tracking>
+                            <Tracking event="thirdQuartile">
+                                <![CDATA[ https://00px.net/tracking/eyJjYSI6NDM3MywiY3IiOjc3NzU2LCJwbCI6NTk3OTJ9/thirdquartiles?t=1871564304371782100&s=R64RHJn8LgHlhRQMIYS17luq ]]>
+                            </Tracking>
+                            <Tracking event="complete">
+                                <![CDATA[ https://00px.net/tracking/eyJjYSI6NDM3MywiY3IiOjc3NzU2LCJwbCI6NTk3OTJ9/completes?t=1871564304371782100&s=R64RHJn8LgHlhRQMIYS17luq ]]>
+                            </Tracking>
+                            <Tracking event="mute">
+                                <![CDATA[ https://00px.net/tracking/eyJjYSI6NDM3MywiY3IiOjc3NzU2LCJwbCI6NTk3OTJ9/mutes?t=1871564304371782100&s=R64RHJn8LgHlhRQMIYS17luq ]]>
+                            </Tracking>
+                            <Tracking event="unmute">
+                                <![CDATA[ https://00px.net/tracking/eyJjYSI6NDM3MywiY3IiOjc3NzU2LCJwbCI6NTk3OTJ9/unmutes?t=1871564304371782100&s=R64RHJn8LgHlhRQMIYS17luq ]]>
+                            </Tracking>
+                            <Tracking event="pause">
+                                <![CDATA[ https://00px.net/tracking/eyJjYSI6NDM3MywiY3IiOjc3NzU2LCJwbCI6NTk3OTJ9/pauses?t=1871564304371782100&s=R64RHJn8LgHlhRQMIYS17luq ]]>
+                            </Tracking>
+                            <Tracking event="resume">
+                                <![CDATA[ https://00px.net/tracking/eyJjYSI6NDM3MywiY3IiOjc3NzU2LCJwbCI6NTk3OTJ9/resumes?t=1871564304371782100&s=R64RHJn8LgHlhRQMIYS17luq ]]>
+                            </Tracking>
+                            <Tracking event="skip">
+                                <![CDATA[ https://00px.net/tracking/eyJjYSI6NDM3MywiY3IiOjc3NzU2LCJwbCI6NTk3OTJ9/skips?t=1871564304371782100&s=R64RHJn8LgHlhRQMIYS17luq ]]>
+                            </Tracking>
+                            <Tracking event="rewind">
+                                <![CDATA[ https://00px.net/tracking/eyJjYSI6NDM3MywiY3IiOjc3NzU2LCJwbCI6NTk3OTJ9/rewinds?t=1871564304371782100&s=R64RHJn8LgHlhRQMIYS17luq ]]>
+                            </Tracking>
+                            <Tracking event="fullscreen">
+                                <![CDATA[ https://00px.net/tracking/eyJjYSI6NDM3MywiY3IiOjc3NzU2LCJwbCI6NTk3OTJ9/fullscreens?t=1871564304371782100&s=R64RHJn8LgHlhRQMIYS17luq ]]>
+                            </Tracking>
+                        </TrackingEvents>
+                        <AdParameters>
+                            <![CDATA[ {"seed":"R64RHJn8LgHlhRQMIYS17luq","token":"eyJjYSI6NDM3MywiY3IiOjc3NzU2LCJwbCI6NTk3OTJ9","skip":"05","clickmore":false,"noclick":false,"muted":true,"width":"640","height":"480","controls":true,"autoplay":true,"domain":"https://00px.net","cdndomain":"https://cdn.00px.net","videos":[{"url":"https://cdn.00px.net/rocket/77756/index_720.webm","mimetype":"video/webm"},{"url":"https://cdn.00px.net/rocket/77756/index_720.mp4","mimetype":"video/mp4"}]} ]]>
+                        </AdParameters>
+                        <VideoClicks>
+                            <ClickThrough id="ADXSPACE">
+                                <![CDATA[ https://00px.net/click/eyJjYSI6NDM3MywiY3IiOjc3NzU2LCJwbCI6NTk3OTJ9?t=1871564304371782100&seed=R64RHJn8LgHlhRQMIYS17luq ]]>
+                            </ClickThrough>
+                        </VideoClicks>
+                        <MediaFiles>
+                            <MediaFile maintainAspectRatio="true" scalable="true" delivery="progressive" type="application/javascript" apiFramework="VPAID" width="640" height="480">
+                                <![CDATA[ https://cdn.00px.net/static/vpaid003.min.js ]]>
+                            </MediaFile>
+                        </MediaFiles>
+                    </Linear>
+                </Creative>
+            </Creatives>
+        </InLine>
+    </Ad>
+</VAST>
